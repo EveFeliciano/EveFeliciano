@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fkerokerokeroppi--706994841514840821%2F&psig=AOvVaw1PLNcutvbHjD3MmtY6D6tb&ust=1758727734765000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjq08CZ748DFQAAAAAdAAAAABAE)" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Bem vindos ao meu perfil! <strong>sua stack</strong>.<br>
