@@ -1,4 +1,4 @@
-<img src="https://br.pinterest.com/pin/706994841514840821/" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.pinimg.com/originals/0c/2a/e9/0c2ae9fb393311e13a11ea8fbbf4dd5b.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Bem vindos ao meu perfil! <strong>sua stack</strong>.<br>
