@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  SDesign Gráfico !
+  Design Gráfico !
 </p>
 
 <p align="left">
