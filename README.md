@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  Linguagens: JavaScript, Node.
+  SDesign Gráfico !
 </p>
 
 <p align="left">
