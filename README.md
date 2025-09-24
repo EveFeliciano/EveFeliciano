@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Bem vindos ao meu perfil! <strong>Evellyn aqui!</strong>.<br>
-  Estudo na Etec Maria Cristina Medeiros, no terceiro ano do Ensino Médio Integrado Ao Técnico
+  Estudo na Etec Maria Cristina Medeiros, no terceiro ano do Ensino Médio Integrado Ao Técnico de Informática
 </p>
 
 <p align="left">
